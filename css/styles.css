@@ -1,0 +1,90 @@
+body {
+  overflow-x: hidden;
+  width: 100%;
+  margin: 0;
+  text-align: center;
+  font-family: "helvetica neue", helvetica, arial, sans-serif;
+}
+.whole-site {
+  overflow-x: hidden;
+}
+
+.top-container {
+  padding-top: 100px;
+  background-color: #E4F9F5;
+  position: relative;
+}
+
+.middle-container {
+  
+}
+
+.bottom-container {
+}
+hr {
+  width: 100%;
+}
+
+h1 {
+  color: #66BFBF;
+  font-size: 5.625rem;
+  margin-top: 50px;
+  line-height: 2;
+}
+h2 {
+  color: #66BFBF;
+}
+h3 {
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
+}
+
+.pro {
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 40%;
+  top: 25px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 30%;
+  bottom: 200px;
+}
+.skill-row {
+  font-size: 16px;
+  display: inline-block;
+  width: 100%;
+  margin: 100px 25% 0px 20%;
+ text-align: left;
+ line-height: 2;
+}
+.cmpt {
+  margin-right: 30px;
+  width: 15%;
+  float: left;
+}
+.chilli {
+  width: 15%;
+  float: left;
+}
+
+.contact-me {
+  margin-top: 20%;
+  display: block;
+  margin-left: 20%;
+  margin-right: 20%;
+  text-align: center;
+  margin-top: 2rem;
+}
+.bottom-container {
+  margin-left: 20%;
+  margin-right: 20%;
+}
